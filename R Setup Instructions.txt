@@ -1,0 +1,14 @@
+Follow the steps in this link to install R and R studio:
+https://www.rstudio.com/products/rstudio/download/#download 
+
+When R studio is installed you can open .R files by selecting the File -> Open File… menu or pressing ctrl + O.
+
+You can run a program line by line by clicking the line(s) you wish to run and then selecting Code -> Run Selected Lines or pressing ctrl + enter. 
+You can also quickly run all of the lines in the program by selecting Code -> Source with Echo or by pressing ctrl + shift + enter.
+
+For programs 2 and 4 you need to set the working directory to the Sample R programs folder. This can be done by navigating to the files tab in the bottom right part of the screen. 
+Click on the three dots in the top right of the files screen then navigate to the programs directory. 
+Next, click on the More button with the gear next to it to open a dropdown menu. Select “Set As Working Directory” and you should be able to run the programs without problem.
+
+Program 4 will require you to install some packages before running it. Just follow the instructions in the alert message at the top of the window. 
+You may need to run the program a couple of times and restart R studio for the packages to fully install.
